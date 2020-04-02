@@ -1,4 +1,6 @@
+#include "Game.h"
+
 int main()
 {
-	return 0;
+	return Game::Instance().Run();
 }

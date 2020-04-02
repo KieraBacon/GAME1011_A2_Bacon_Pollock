@@ -21,10 +21,66 @@
     <ClCompile Include="Object.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Object.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Objects\Bedroom.object">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Objects\Dollhouse.object">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Objects\Door.object">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Objects\Fridge.object">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Objects\Handle.object">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Objects\Inventory.object">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Objects\Kids Room.object">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Objects\Kitchen.object">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Objects\Lid.object">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Objects\Reflection.object">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Objects\Steeping Tea.object">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Objects\Table.object">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Objects\Teabag.object">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Objects\Teapot.object">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Objects\You.object">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="Objects\Bathroom.object">
+      <Filter>Resource Files</Filter>
+    </None>
   </ItemGroup>
 </Project>

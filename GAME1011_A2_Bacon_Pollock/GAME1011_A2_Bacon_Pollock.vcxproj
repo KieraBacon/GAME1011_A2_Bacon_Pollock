@@ -138,11 +138,31 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Game.cpp" />
     <ClCompile Include="Main.cpp" />
     <ClCompile Include="Object.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Game.h" />
     <ClInclude Include="Object.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Objects\Bathroom.object" />
+    <None Include="Objects\Bedroom.object" />
+    <None Include="Objects\Dollhouse.object" />
+    <None Include="Objects\Door.object" />
+    <None Include="Objects\Fridge.object" />
+    <None Include="Objects\Handle.object" />
+    <None Include="Objects\Inventory.object" />
+    <None Include="Objects\Kids Room.object" />
+    <None Include="Objects\Kitchen.object" />
+    <None Include="Objects\Lid.object" />
+    <None Include="Objects\Reflection.object" />
+    <None Include="Objects\Steeping Tea.object" />
+    <None Include="Objects\Table.object" />
+    <None Include="Objects\Teabag.object" />
+    <None Include="Objects\Teapot.object" />
+    <None Include="Objects\You.object" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
