@@ -1,0 +1,7 @@
+##fYou can't make her out, but you are almost certain there is a little girl hunching in the corner.
+##nPeering through the dim, you can see her damp eyes looking at you expectantly. 
+##pCurious Little Attic##
+##b1
+##cSmile##
+##cHands##
+##cHair##

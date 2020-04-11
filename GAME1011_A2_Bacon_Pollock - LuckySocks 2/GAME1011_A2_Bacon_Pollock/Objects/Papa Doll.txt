@@ -1,0 +1,4 @@
+##fA crude doll representing a father.
+##nHis face is frozen in a grin.
+##pSealed Boxes##
+##b0

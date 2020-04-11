@@ -1,0 +1,5 @@
+##fA modest, shaded lamp.
+##nThere is no bulb in the lamp. The room is well enough lit without it. 
+##pBedside Table##
+##b1
+##c##

@@ -1,0 +1,6 @@
+##fThe walls look handpainted, grey skies with white clouds.
+##nThe dirt floor is colder here.
+##pBasement##
+##b1
+##cCrib##
+##cToy Chest##

@@ -1,0 +1,7 @@
+##fWhat once were white tiles adorn the walls.
+##nHumidity has damaged the corners of the bathroom especially.
+##pDollhouse##
+##b1
+##cMirror##
+##cToilet##
+##cBathtub##

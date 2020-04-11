@@ -1,0 +1,6 @@
+##fUnfinished basement, empty and cold.
+##nThe ground is dirt, it must be leaching warmth from the house.
+##pDollhouse##
+##b1
+##cSealed Boxes##
+##cKids Room##

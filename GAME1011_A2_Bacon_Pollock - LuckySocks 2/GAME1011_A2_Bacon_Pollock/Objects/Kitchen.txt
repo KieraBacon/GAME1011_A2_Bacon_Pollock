@@ -1,0 +1,6 @@
+##fThis is where the cooking would happen.
+##nThere's no place for a family to sit and eat in here.
+##pDollhouse##
+##b1
+##cKitchen Sink##
+##cStove##

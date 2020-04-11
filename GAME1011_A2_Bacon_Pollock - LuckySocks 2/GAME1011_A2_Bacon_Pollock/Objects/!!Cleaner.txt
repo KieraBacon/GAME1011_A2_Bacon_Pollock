@@ -1,0 +1,10 @@
+##fYou have lost yourself. Where are you now? What do you see?
+The actions you can take are to
+> "look closer"
+> "look at inventory"
+> "look away"
+> "exit the game".
+##nYou see a small, yet eerily realistic dollhouse in front of you.
+##pBedroom##
+##b0
+##cDollhouse##

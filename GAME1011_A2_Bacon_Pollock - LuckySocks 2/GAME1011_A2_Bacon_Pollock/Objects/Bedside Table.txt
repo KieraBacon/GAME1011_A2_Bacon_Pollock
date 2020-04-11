@@ -1,0 +1,6 @@
+##fJust beside the bed there is a little table.
+##nOne leg is shorter than the others, giving it a precarious little rock when you press on any corner.
+##pBedroom##
+##b1
+##cLamp##
+##cAlarm Clock##

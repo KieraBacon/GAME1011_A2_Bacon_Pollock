@@ -1,0 +1,4 @@
+##fA wood burning stove. 
+##nIt is oddly warm, though there is nothing burning inside.
+##pKitchen##
+##b1

@@ -1,0 +1,5 @@
+##fA drain in the center of the tub.
+##nIt looks obstructed.
+##pBathTub##
+##b1
+##cHairs##

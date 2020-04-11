@@ -1,0 +1,5 @@
+##fDeep, claw footed.
+##nThere is no tap to fill the tub. 
+##pBathroom##
+##b1
+##cDrain##

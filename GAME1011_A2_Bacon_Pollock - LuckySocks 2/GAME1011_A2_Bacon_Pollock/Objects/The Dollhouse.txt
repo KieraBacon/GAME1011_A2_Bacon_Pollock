@@ -1,0 +1,9 @@
+##fIts the dollhouse
+##nA teeny tiny house, wide open to the world. The front is sheared off, like an autopsy. 
+##pAttic##
+##b1
+##cCurious Little Door##
+##cBedroom##
+##cBathroom##
+##cKitchen##
+##cBasement##

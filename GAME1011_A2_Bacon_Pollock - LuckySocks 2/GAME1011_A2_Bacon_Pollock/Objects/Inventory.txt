@@ -1,0 +1,3 @@
+##fIt is your inventory.
+##nYou examine your inventory.
+##b1

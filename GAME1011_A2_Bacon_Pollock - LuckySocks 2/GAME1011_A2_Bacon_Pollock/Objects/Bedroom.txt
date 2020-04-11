@@ -1,0 +1,7 @@
+##fWalls painted orange, a cheery place.
+##nThere are little holes in the walls, as if hung paintings were all removed.
+##pDollhouse##
+##b1
+##cBed##
+##cBedside Table##
+##cDresser##
