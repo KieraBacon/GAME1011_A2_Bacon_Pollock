@@ -1,9 +1,7 @@
 ##fYou see a small but well-loved dollhouse.
 ##nThe dollhouse is showing clear signs of age, yet still manages to be eerily realistic.
-
-##pYou##
+##pCurious Little Attic##
 ##b0
-
 ##cCurious Little Door##
 ##cBedroom##
 ##cBathroom##

@@ -1,4 +1,4 @@
 ﻿  Object.cpp
-C:\Users\samcp\Documents\Github Stuff\Look Closer 2\GAME1011_A2_Bacon_Pollock - LuckySocks 2\GAME1011_A2_Bacon_Pollock\Object.cpp(185,25): warning C4018: '<': signed/unsigned mismatch
-C:\Users\samcp\Documents\Github Stuff\Look Closer 2\GAME1011_A2_Bacon_Pollock - LuckySocks 2\GAME1011_A2_Bacon_Pollock\Object.cpp(243,23): warning C4129: 'A': unrecognized character escape sequence
-  GAME1011_A2_Bacon_Pollock.vcxproj -> C:\Users\samcp\Documents\Github Stuff\Look Closer 2\GAME1011_A2_Bacon_Pollock - LuckySocks 2\Debug\GAME1011_A2_Bacon_Pollock.exe
+C:\Users\Allarielle\source\repos\W2020\GAME1011_A2_Bacon_Pollock\GAME1011_A2_Bacon_Pollock - LuckySocks 2\GAME1011_A2_Bacon_Pollock\Object.cpp(185,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Allarielle\source\repos\W2020\GAME1011_A2_Bacon_Pollock\GAME1011_A2_Bacon_Pollock - LuckySocks 2\GAME1011_A2_Bacon_Pollock\Object.cpp(244,23): warning C4129: 'A': unrecognized character escape sequence
+  GAME1011_A2_Bacon_Pollock.vcxproj -> C:\Users\Allarielle\source\repos\W2020\GAME1011_A2_Bacon_Pollock\GAME1011_A2_Bacon_Pollock - LuckySocks 2\Debug\GAME1011_A2_Bacon_Pollock.exe

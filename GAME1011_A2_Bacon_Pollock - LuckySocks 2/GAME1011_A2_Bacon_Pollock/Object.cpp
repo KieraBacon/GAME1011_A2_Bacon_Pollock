@@ -215,9 +215,11 @@ void Object::ProcessInput()
 							{
 								if (hasFamilyOfDolls)
 								{
-									std::cout << "\n\n\n\n\n\n\n\n\n\nEach doll finds a place in the toy chest. The lid closes and the whole house feels tidy for now. \nYou leave tiny tiny toys in the tiny chest.\nYou leave the tiny room and the tiny dollhouse. \n";
-									std::cout << "\n\n Thanks for playing Look Closer\nGame by Kiera Bacon and Sam Pollock\n";
+									std::cout << "\n\n\n\n\n\n\n\n\n\n\n\nEach doll finds a place in the toy chest. The lid closes and the whole house feels tidy for now.\n\nYou leave tiny tiny toys in the tiny chest.\n\nYou leave the tiny room and the tiny dollhouse. \n";
+									std::cout << "\n\nThanks for playing Look Closer\nGame by Kiera Bacon and Sam Pollock\n";
 									system("pause");
+									Game::Instance().ChangeFocus(nullptr);
+									valid = true;
 									break;
 									
 								}
@@ -239,17 +241,21 @@ void Object::ProcessInput()
 								}
 								if (hasFingernails && hasTeeth && hasHairs)
 								{
-									std::cout << "\n\n\n\n\n\n\n\n\n\As she takes each part, the curious little girl takes another step away from the dollhouse. You look close at the dollhouse and notice, for the first time, it isn't a dollhouse - it is your house. Your family lives here. You don't look away. You know the curious little girl isn't looking in anymore.\n";
-									std::cout << "\n\n Thanks for playing Look Closer\nGame by Kiera Bacon and Sam Pollock\n";
+									std::cout << "\n\n\n\n\n\n\n\n\n\n\nAs she takes each part, the curious little girl takes another step away from the dollhouse. You look close at the dollhouse and notice, for the first time, it isn't a dollhouse - it is your house. Your family lives here. You don't look away. You know the curious little girl isn't looking in anymore.\n";
+									std::cout << "\n\nThanks for playing Look Closer\nGame by Kiera Bacon and Sam Pollock\n";
 									system("pause");
+									Game::Instance().ChangeFocus(nullptr);
+									valid = true;
 									break;
 								}
 
 								if (hasFamilyOfDolls)
 								{
-									std::cout << "\n\n\n\n\n\n\n\n\n\nShe takes the mama doll from you.\nShe doesn't put the mama in the house, instead, she holds it tight in her hand then puts it delicately into her mouth. With a quick swallow, mama is gone.\nNext she takes papa doll. Gulp, gone. \nShe hold baby sister doll in her hand for a moment, then baby sister joins mama and papa. \nNext, the curious little girl reaches for you. \nYou'll join the family soon.\n";
-									std::cout << "\n\n Thanks for playing Look Closer\nGame by Kiera Bacon and Sam Pollock\n";
+									std::cout << "\n\n\n\n\n\n\n\nShe takes the mama doll from you. She doesn't put the mama in the house, instead, she holds it tight in her hand then puts it delicately into her mouth. With a quick swallow, mama is gone.\n\nNext she takes papa doll. Gulp, gone. \n\nShe holds baby sister doll in her hand for a moment, then baby sister joins mama and papa. Next, the curious little girl reaches for you. \n\nYou'll join the family soon.\n";
+									std::cout << "\n\nThanks for playing Look Closer\nGame by Kiera Bacon and Sam Pollock\n";
 									system("pause");
+									Game::Instance().ChangeFocus(nullptr);
+									valid = true;
 									break;
 								}
 
